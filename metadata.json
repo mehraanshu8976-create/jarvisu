@@ -1,0 +1,6 @@
+{
+  "name": "j.a.r.v.e.s",
+  "description": "Clean modular Android command hub and device assistant with HUD theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

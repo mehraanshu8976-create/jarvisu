@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">j.a.r.v.e.s</string>
+    <string name="app_tagline">Just A Rather Very Intelligent System</string>
+    <string name="nav_command">Command</string>
+    <string name="nav_console">Console</string>
+    <string name="nav_settings">Modules</string>
+    <string name="logo_content_description">J.A.R.V.E.S Core Logo</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_ready">Core modules synced — local device controls ready.</string>
+    <string name="section_telemetry">Live Telemetry</string>
+    <string name="section_quick_actions">Quick Actions</string>
+    <string name="section_recent_activity">Recent Activity</string>
+    <string name="action_flashlight">Flashlight</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_youtube">YouTube</string>
+    <string name="action_speak">Speak Status</string>
+    <string name="action_console">Console</string>
+    <string name="console_title">Command Console</string>
+    <string name="console_subtitle">Local deterministic engine • Modular for future AI</string>
+    <string name="console_hint">Type a command (e.g. flashlight on, battery, youtube)…</string>
+    <string name="settings_title">Modules &amp; Identity</string>
+    <string name="settings_subtitle">Theme, commander profile, and hardware diagnostics</string>
+    <string name="commander_name_label">Commander Name</string>
+    <string name="save_label">Save</string>
+    <string name="dark_hud_theme">Dark HUD Theme</string>
+    <string name="voice_feedback_label">Voice Feedback (TTS)</string>
+    <string name="youtube_dialog_title">Search YouTube</string>
+    <string name="youtube_dialog_hint">Enter video or song query…</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="search_label">Search</string>
+</resources>

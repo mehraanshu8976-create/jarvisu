@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Subtle inner core glow backdrop -->
+    <path
+        android:fillColor="#1800E5FF"
+        android:pathData="M60,60m-44,0a44,44 0,1 1,88 0a44,44 0,1 1,-88 0" />
+
+    <!-- Outer segmented HUD arcs -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M60,8 A52,52 0 0,1 108,42"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M108,78 A52,52 0 0,1 60,112"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,108 A52,52 0 0,1 12,78"
+        android:strokeWidth="2.5"
+        android:strokeColor="#2979FF"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,42 A52,52 0 0,1 42,12"
+        android:strokeWidth="2.5"
+        android:strokeColor="#2979FF"
+        android:strokeLineCap="round" />
+
+    <!-- Middle precision ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M60,60m-38,0a38,38 0,1 1,76 0a38,38 0,1 1,-76 0"
+        android:strokeWidth="1.8"
+        android:strokeColor="#8000E5FF" />
+
+    <!-- Inner reactor ring -->
+    <path
+        android:fillColor="#0A1B2A"
+        android:pathData="M60,60m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0"
+        android:strokeWidth="2"
+        android:strokeColor="#00E5FF" />
+
+    <!-- Iconic inverted triangle core -->
+    <path
+        android:fillColor="#2600E5FF"
+        android:pathData="M41,47 L79,47 L60,81 Z"
+        android:strokeWidth="3.2"
+        android:strokeColor="#00E5FF"
+        android:strokeLineJoin="round" />
+
+    <!-- Inner triangle highlight -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M50,53 L70,53 L60,71 Z" />
+</vector>
